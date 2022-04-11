@@ -23,7 +23,7 @@ export const INPUT_MINT_ADDRESS =
         : "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"; // USDC
 export const OUTPUT_MINT_ADDRESS = ENV === "devnet"
     ? "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt" // SRM
-    : "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"; // USDT
+    : "823dnFBD7dUCbBr9tvD6oT3JHo286dx93opVLgqKT21u"; // SMCK
 
 // Interface
 export interface Token {

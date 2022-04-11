@@ -7,7 +7,7 @@ class MyDocument extends Document {
         <Head>
           <meta
             name="description"
-            content="This site will fly high 🦤"
+            content="This site will keep you flying high 🦤"
           />
           <link rel="icon" href="/favicon.ico" />
 

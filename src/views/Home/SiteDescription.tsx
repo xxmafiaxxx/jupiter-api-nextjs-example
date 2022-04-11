@@ -64,17 +64,17 @@ const SiteDescription = () => {
             <div className="hero">
                 <div className="text-center hero-content">
                     <div>
-                        <h1 className="mb-5 text-5xl font-bold">
-                            Hello Solana <SolanaLogo /> World!
+                        <h1 className="mb-5 text-5xl font-bold ">
+                            Hello Smacked Dobbie  <SolanaLogo /> People!
                         </h1>
 
-                        <div className="max-w-md">
+                        <div className="max-w-xlg">
                             <p className="mb-5">
-                                This scaffold includes awesome tools for rapid development and
-                                deploy dapps to Solana: Next.JS, TypeScript, TailwindCSS,
-                                Daisy UI.
+                                Select the token below for SWAP for SMCK
                             </p>
-                            <p className="mb-5">Solana wallet adapter is connected and ready to use.</p>
+                            <p className="mb-5">The Smacked Dobbie Token is Powered by the Solana Blockchain Network.</p>
+                            <p className="mb-5">Swap your Solana Tokens for Smacked Dobbie Tokens.</p>
+                            <p className="mb-5">Then Swap your SMCK tokens for Cannabis.</p>
                             <p className="mb-5">Environment: {ENV}</p>
                             {publicKey
                                 ? (
