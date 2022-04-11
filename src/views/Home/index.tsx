@@ -1,3 +1,5 @@
+  // eslint-disable-next-line no-empty-pattern
+  
 import { FC } from "react";
 
 import Header from "./Header";
